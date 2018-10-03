@@ -1,0 +1,2 @@
+djanago == 2.0
+django-registration-redux ==1.11
